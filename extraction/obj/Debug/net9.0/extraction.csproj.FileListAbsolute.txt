@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\Python_Deepfake\extraction\bin\Debug\net9.0\extraction.exe
+C:\Users\USER\Desktop\Python_Deepfake\extraction\bin\Debug\net9.0\extraction.deps.json
+C:\Users\USER\Desktop\Python_Deepfake\extraction\bin\Debug\net9.0\extraction.runtimeconfig.json
+C:\Users\USER\Desktop\Python_Deepfake\extraction\bin\Debug\net9.0\extraction.dll
+C:\Users\USER\Desktop\Python_Deepfake\extraction\bin\Debug\net9.0\extraction.pdb
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.AssemblyInfo.cs
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.dll
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\refint\extraction.dll
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.pdb
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\extraction.genruntimeconfig.cache
+C:\Users\USER\Desktop\Python_Deepfake\extraction\obj\Debug\net9.0\ref\extraction.dll
